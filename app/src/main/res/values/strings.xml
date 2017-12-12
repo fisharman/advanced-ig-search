@@ -1,4 +1,17 @@
 <resources>
-    <string name="app_name">IG.search</string>
+    <string name="app_name">IG Search</string>
+
+    <string name="title_activity_temp">TempActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="button_addTag">+TAG</string>
+    <string name="button_addLocation">+LOCATION</string>
+    <string name="button_addUser">+USER</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+    <string name="textView_tag">Tag</string>
+    <string name="textView_location">Location</string>
+    <string name="textView_user">User</string>
+    <string name="button_search">Search</string>
 
 </resources>
